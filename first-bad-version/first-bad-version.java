@@ -13,6 +13,6 @@ public class Solution extends VersionControl {
                 low = med+1;
             }
         }
-        return low;
+        return high;
     }
 }
